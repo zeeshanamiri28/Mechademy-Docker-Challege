@@ -1,0 +1,16 @@
+exports.DATA_REQUIRED_ERROR = 'Data is required!';
+exports.USER_ID_REQUIRED = 'User Id is required!';
+exports.NONCE_REQUIRED_ERROR = 'Nonce is required!';
+exports.INDEX_REQUIRED_ERROR = 'Index is required!';
+exports.NOT_REGISTERED_USER = 'User not registered!';
+exports.EMPTY_EMAIL_ERROR = 'Email Id cannot be empty!';
+exports.PASSWORD_REQUIRED_ERROR = 'Password cannot be empty!';
+exports.EMPTY_MOBILE_ERROR = 'Mobile number cannot be empty!';
+exports.REGISTERED_EMAIL_ERROR = 'Email Id already registered!';
+exports.LAST_NAME_REQUIRED_ERROR = 'Last name cannot be empty!';
+exports.PREV_HASH_REQUIRED_ERROR = 'Previous hash is required!';
+exports.CURRENT_HASH_REQUIRED_ERROR = 'Current hash is required!';
+exports.FIRST_NAME_REQUIRED_ERROR = 'First name cannot be empty!';
+exports.CREATION_DATE_REQUIRED_ERROR = 'Creation date is required!';
+exports.REGISTERED_MOBILE_ERROR = 'Mobile number already registered!';
+exports.INCORRECT_USERNAME_PASSWORD_ERROR = 'Username or password is incorrect!';
